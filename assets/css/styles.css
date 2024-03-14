@@ -153,6 +153,7 @@ svg {
 /* Navigation for mobile devices */
 .header {
     position: fixed;
+    
     width: 100%;
     background-color: var(--container-color);
     top: 0;

@@ -41,10 +41,10 @@ const sendEmail = (e) => {
     e.preventDefault(); // service id // template id //#form //publickey
     emailjs
     .sendForm(
-        "service_v4g200n", 
-        "template_pnby87p", 
+        "service_hjtkkeo", 
+        "template_p4xt3dh", 
         "#contact-form", 
-        "gHZyGxFGmE9XUYUbK" 
+        "xsQ_pQgjyfJ10bUCf" 
     )
     .then(
         () => {
